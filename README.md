@@ -1,0 +1,2 @@
+# EmpHour
+AI schedule optimizer
